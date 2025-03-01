@@ -1,5 +1,5 @@
 # Basics of Version Control with GitHub
-A simple guide to using `git` for GitHub version control. Learn how to create, merge, and delete branches.
+A simple guide for GitHub version control. Learn how to create, merge, and delete branches.
 
 
 ## What is "Git Flow"?
