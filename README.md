@@ -15,7 +15,6 @@ Using this structured approach makes collaboration easier and keeps your codebas
 
 
 ## How to start for beginners
-It covers these following steps:
 - Setup the Repository
 - Create Main and Develop Branches
 - Work on a New Feature
